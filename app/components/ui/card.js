@@ -1,0 +1,2 @@
+export const Card = (props) => <div {...props}>{props.children}</div>;
+export const CardContent = (props) => <div {...props}>{props.children}</div>;
